@@ -3,7 +3,7 @@
 You work hard to provide excellent products and services to your customers. But sometimes, you may struggle to offer seamless support. If someone has a question, they shouldn't have to wait hours for a reply. According to researchers, 88% of customers chatted with a bot in 2022. 
 Chatbots powered by artificial intelligence can provide quick responses around the clock. This blog post will explain how ecommerce chatbots can enhance your customer experience.
 
-[<p align="center"><img src="https://github.com/OpportunitesDigitales/ecommercechatbot/assets/110440447/b451edf7-88ea-4bb6-9a8b-5bcf6cd767c5"></p>](https://aichatbots.net.au/ecommerce-ai-chatbots/)
+[<img src="https://github.com/OpportunitesDigitales/ecommercechatbot/assets/110440447/b451edf7-88ea-4bb6-9a8b-5bcf6cd767c5">](https://aichatbots.net.au/ecommerce-ai-chatbots/)
 
 You'll want to keep reading.
 
@@ -56,7 +56,7 @@ By meeting customers where they already spend time online, chatbots boost engage
 
 From my experience helping businesses set up chatbots, I've seen how convenient this multi-channel approach is. Customers appreciate the ability to get instant help no matter where they browse or chat.
 
-[<p align="center"><img src="https://github.com/OpportunitesDigitales/ecommercechatbot/assets/110440447/3402c6a7-a969-413e-bc35-e6bf1e8b21af"></p>](https://aichatbots.net.au/contact/)
+[<img src="https://github.com/OpportunitesDigitales/ecommercechatbot/assets/110440447/3402c6a7-a969-413e-bc35-e6bf1e8b21af">](https://aichatbots.net.au/contact/)
 
 ## Types of Ecommerce Chatbots
 
